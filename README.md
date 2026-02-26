@@ -5,7 +5,8 @@ This repository contains a small data-pipeline, a vector store wrapper, and a St
 
 Status:Development — pipeline and Streamlit app run locally (see Troubleshooting).
 
-Contents
+Contents:
+
 -app/ — Streamlit frontend (app.py)
 - pipeline/ — pipeline runner and build script (build_pipeline.py, pipeline.py)
 - src/ — core modules: data_loader.py, vector_store.py, recommender.py, prompt_template.py
