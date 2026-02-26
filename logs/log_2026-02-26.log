@@ -1,0 +1,41 @@
+2026-02-26 04:47:03,684 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:47:03,685 - ERROR - Error in data loading and vector store building process: read_csv() got an unexpected keyword argument 'error_bad_lines'. Did you mean 'on_bad_lines'?
+2026-02-26 04:47:28,412 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:47:28,458 - ERROR - Error in data loading and vector store building process: unsupported operand type(s) for -: 'list' and 'set'
+2026-02-26 04:47:51,824 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:47:51,834 - ERROR - Error in data loading and vector store building process: Missing columns in CSV:
+2026-02-26 04:48:28,687 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:48:28,735 - ERROR - Error in data loading and vector store building process: VectorStoreBuilder.__init__() got an unexpected keyword argument 'persist_directory'
+2026-02-26 04:48:54,056 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:48:54,063 - ERROR - Error in data loading and vector store building process: Missing columns in CSV: {'Name', 'Genres', 'sypnopsis'}
+2026-02-26 04:51:16,985 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:51:17,012 - INFO - Use pytorch device_name: cpu
+2026-02-26 04:51:17,012 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-26 04:51:19,838 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-02-26 04:51:30,252 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-26 04:51:37,891 - INFO - Data loading and vector store building process completed successfully.
+2026-02-26 04:52:44,597 - INFO - Starting the data loading and vector store building process.
+2026-02-26 04:52:44,611 - INFO - Use pytorch device_name: cpu
+2026-02-26 04:52:44,611 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-26 04:52:48,875 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-26 04:52:54,330 - INFO - Data loading and vector store building process completed successfully.
+2026-02-26 05:39:19,341 - INFO - Initializing the Anime Recommendation Pipeline.
+2026-02-26 05:39:19,347 - INFO - Use pytorch device_name: cpu
+2026-02-26 05:39:19,347 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-26 05:39:26,628 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-26 05:39:29,775 - INFO - Pipeline initialized successfully.
+2026-02-26 05:40:00,570 - INFO - Initializing the Anime Recommendation Pipeline.
+2026-02-26 05:40:00,574 - INFO - Use pytorch device_name: cpu
+2026-02-26 05:40:00,574 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-26 05:40:06,204 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-26 05:40:08,705 - INFO - Pipeline initialized successfully.
+2026-02-26 05:41:41,042 - INFO - Initializing the Anime Recommendation Pipeline.
+2026-02-26 05:41:41,050 - INFO - Use pytorch device_name: cpu
+2026-02-26 05:41:41,050 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-26 05:41:48,002 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-26 05:41:51,615 - INFO - Pipeline initialized successfully.
+2026-02-26 05:48:25,634 - INFO - Initializing the Anime Recommendation Pipeline.
+2026-02-26 05:48:25,641 - INFO - Use pytorch device_name: cpu
+2026-02-26 05:48:25,641 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-26 05:48:32,496 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-26 05:48:35,872 - INFO - Pipeline initialized successfully.
